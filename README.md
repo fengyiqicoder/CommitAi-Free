@@ -2,9 +2,13 @@
 # <img src="https://raw.githubusercontent.com/fengyiqicoder/CommitAi-Free/main/icon_256%401x.png" width="100" height="100" alt="CommitAi Icon">
 # CommitAi
 
+
 ## Let AI Handle Your Commit Messages
 
 CommitAi is a macOS application designed to generate commit messages for your Git repositories using artificial intelligence (AI). "Let AI Handle Your Commit Messages" and revolutionize your Git workflow by quickly generating concise and accurate commit messages for your code changes.
+
+Click ⬇️ to Watch an Intro Video  
+[![video](https://img.youtube.com/vi/bov4kAFWAXA/0.jpg)](https://www.youtube.com/watch?v=bov4kAFWAXA)
 
 ## Features
 
