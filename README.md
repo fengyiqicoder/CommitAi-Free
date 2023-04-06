@@ -30,11 +30,12 @@ This project is not open source. The purpose of this repository is to download t
 
 ## Contributing
 
-We welcome contributions to CommitAi! Feel free to submit pull requests or report issues through our [issue tracker](https://github.com/yourusername/commitai/issues).
+We welcome contributions to CommitAi! Feel free to submit pull requests or report issues through our [issue tracker](https://github.com/fengyiqicoder/commitai-free/issues).
 
 ## Get in Touch
 
 If you have any questions or suggestions, please don't hesitate to reach out to us through:
 
-- [GitHub Issues](https://github.com/yourusername/commitai/issues)
-- Email: your-email@example.com
+- [GitHub Issues](https://github.com/fengyiqicoder/commitai-free/issues)
+- Email: cloudstickerforapple@gmail.com
+
