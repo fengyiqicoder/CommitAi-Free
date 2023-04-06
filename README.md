@@ -20,7 +20,7 @@ Click ⬇️ to Watch an Intro Video
 
 ## Installation
 
-1. Download the latest [Release](https://github.com/yourusername/commitai/releases) version.
+1. Download the latest [Release](https://github.com/fengyiqicoder/CommitAi-Free/releases/download/Release/CommitAi.zip) version.
 2. Unzip and drag the CommitAi.app into your "Applications" folder.
 3. Double-click to run CommitAi.
 
