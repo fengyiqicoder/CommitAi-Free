@@ -1,7 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/fengyiqicoder/CommitAi-Free/main/icon_256%401x.png" width="100" height="100" alt="CommitAi Icon">
 # CommitAi
-
+[中文版本](https://github.com/fengyiqicoder/CommitAi-Free/blob/main/ReadMeChinese.md)
 
 ## Let AI Handle Your Commit Messages
 
