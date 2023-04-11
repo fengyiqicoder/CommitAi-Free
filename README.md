@@ -24,10 +24,6 @@ Click ⬇️ to Watch an Intro Video
 2. Unzip and drag the CommitAi.app into your "Applications" folder.
 3. Double-click to run CommitAi.
 
-## Project Statement
-
-This project is not open source. The purpose of this repository is to download the app and collect feedback. The open source license has been removed.
-
 ## Contributing
 
 We welcome contributions to CommitAi! Feel free to submit pull requests or report issues through our [issue tracker](https://github.com/fengyiqicoder/commitai-free/issues).
@@ -38,4 +34,13 @@ If you have any questions or suggestions, please don't hesitate to reach out to 
 
 - [GitHub Issues](https://github.com/fengyiqicoder/commitai-free/issues)
 - Email: cloudstickerforapple@gmail.com
+
+## Open source certificate
+MIT Open Source License Readme
+
+This software is licensed under the MIT License, which allows for free use, copying, modification, merging, publishing, distribution, sub-licensing, and/or selling copies of the software and its copies.
+
+Licensees will use the software under the MIT License, but without any express or implied warranties, including but not limited to warranties of merchantability and fitness for a particular purpose. No liability, whether in contract, tort, or other legal theory, shall be incurred for any claims, damages, or other liability arising from, out of, or in connection with the use of this software.
+
+We hope you enjoy using this software, but if any issues arise, please note that use of this software is at your own risk. If you do not agree to this license while using this software, we ask that you refrain from using or distributing this software.
 
